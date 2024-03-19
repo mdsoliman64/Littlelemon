@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mdsoliman64.github.io/littlelemon/static/css/main.75928236.css",
+    "main.js": "/mdsoliman64.github.io/littlelemon/static/js/main.95c0b74a.js",
+    "static/media/Margherita Pizza.jpg": "/mdsoliman64.github.io/littlelemon/static/media/Margherita Pizza.e7dedb9032a24941feed.jpg",
+    "static/media/Cheeseburger.jpg": "/mdsoliman64.github.io/littlelemon/static/media/Cheeseburger.91578359db258fe3cb2b.jpg",
+    "static/media/Caramel Macchiato.jpg": "/mdsoliman64.github.io/littlelemon/static/media/Caramel Macchiato.3e147e1dde67dcf5bdfa.jpg",
+    "static/media/Iced Green Tea.jpg": "/mdsoliman64.github.io/littlelemon/static/media/Iced Green Tea.e8a980a907c9e837c751.jpg",
+    "static/media/little_lemon__2_-removebg-preview.png": "/mdsoliman64.github.io/littlelemon/static/media/little_lemon__2_-removebg-preview.0d0c8aba61a6a9cb3827.png",
+    "static/media/PIZZA.png": "/mdsoliman64.github.io/littlelemon/static/media/PIZZA.12c49d5b8a39de43431f.png",
+    "static/media/little lemon (3).png": "/mdsoliman64.github.io/littlelemon/static/media/little lemon (3).54477b0d13fb54f1a775.png",
+    "static/media/logo.png": "/mdsoliman64.github.io/littlelemon/static/media/logo.52f2f097d1622825fb92.png",
+    "index.html": "/mdsoliman64.github.io/littlelemon/index.html",
+    "main.75928236.css.map": "/mdsoliman64.github.io/littlelemon/static/css/main.75928236.css.map",
+    "main.95c0b74a.js.map": "/mdsoliman64.github.io/littlelemon/static/js/main.95c0b74a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75928236.css",
+    "static/js/main.95c0b74a.js"
+  ]
+}
