@@ -1,0 +1,28 @@
+.header-container{
+    background-color: var(--darkGreen-bg);
+    max-width: 100%;
+    
+}
+.header-container img{
+ width:55%;
+}
+.menu-icon{
+    width:60px;
+    height:60px;
+    background-color: var(--darkGreen-bg);
+    border-radius: 50%;
+    border: 2px solid var(--cream-bg);
+    text-align:center;
+    color:var(--cream-bg);
+    cursor: pointer;
+    margin-top:8%;
+    transition: 0.5s ease-in-out;
+}
+.Logo-container{
+    text-align:center;
+    margin:auto;
+    transition: 0.5s ease-in-out;
+}
+.menu-icon:hover{
+    transform: scale(1.2);
+}

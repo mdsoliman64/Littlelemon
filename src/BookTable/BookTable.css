@@ -1,0 +1,68 @@
+#BookTable{
+    padding: 5px;
+}
+ #BookTable input, select{
+        border: none;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.283);
+        outline: none;
+       margin: 8px;
+       font-size: 1.2rem;
+       width: 300px;
+       color:var(--darkGreen-bg);
+        padding:5px 8px;
+        background-color: transparent;
+ }
+ #BookTable label{
+    margin-top: 15px;
+    font-size: 1.2rem;
+ }
+ #BookTable input[type="datetime-local"]{
+    margin-bottom: 10px;
+ }
+
+ #BookTable form{
+    margin-top: 20px;
+ }
+
+ #BookTable input[type="range"]::-webkit-slider-thumb{
+    background-color: var(--darkGreen-bg); 
+
+}
+#BookTable img{
+    width:90%;
+    text-align: center;
+}
+#BookTable button{
+    background-color: var(--darkGreen-bg);
+    margin-top: 10px;
+    width: 320px;
+    padding:5px 8px;
+    font-size: 1.2rem;
+    transition: 1s ease-in-out;
+}
+#BookTable button:hover{
+    background-color: var(--lemon-bg);
+    color:var(--darkGreen-bg);
+    border:2px solid var(--darkGreen-bg);
+    box-shadow:  2px 4px 4px #000;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+#BookTable h3{
+    color:var(--darkGreen-bg);
+    font-weight: 700;
+}
+
+#BookTable input, select:focus {
+    background-color: transparent;
+}
+
+#BookTable input, select:visited {
+    background-color: transparent;
+}

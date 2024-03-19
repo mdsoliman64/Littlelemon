@@ -1,0 +1,24 @@
+#Home{
+    background-image: url(../Assets/little\ lemon\ \(3\).png);
+    min-height: 410px;
+    
+    background-size: cover;
+    margin:auto;
+  padding:10px;
+  text-align: center;
+    
+}
+
+#Home img{
+    width:300px;
+    text-align: center;
+   
+}
+#Home h2{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  color:var(--darkGreen-bg);
+  font-family: "Timmana";
+  font-size: 3.8rem;
+
+} 

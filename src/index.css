@@ -1,13 +1,10 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Timmana&display=swap');
+:root{
+  --lemon-bg:#E1EBA5;
+  --darkGreen-bg:#003C25;
+  --cream-bg:#FDFDFD;
+  --white-bg:#ffff;
+  --yellow-bg:#fee882;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
