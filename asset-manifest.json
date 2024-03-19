@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Littlelemon/static/css/main.ddc50027.css",
-    "main.js": "/Littlelemon/static/js/main.82326ce7.js",
+    "main.js": "/Littlelemon/static/js/main.2ad08a07.js",
     "static/media/Margherita Pizza.jpg": "/Littlelemon/static/media/Margherita Pizza.e7dedb9032a24941feed.jpg",
     "static/media/Cheeseburger.jpg": "/Littlelemon/static/media/Cheeseburger.91578359db258fe3cb2b.jpg",
     "static/media/Caramel Macchiato.jpg": "/Littlelemon/static/media/Caramel Macchiato.3e147e1dde67dcf5bdfa.jpg",
@@ -12,10 +12,10 @@
     "static/media/logo.png": "/Littlelemon/static/media/logo.52f2f097d1622825fb92.png",
     "index.html": "/Littlelemon/index.html",
     "main.ddc50027.css.map": "/Littlelemon/static/css/main.ddc50027.css.map",
-    "main.82326ce7.js.map": "/Littlelemon/static/js/main.82326ce7.js.map"
+    "main.2ad08a07.js.map": "/Littlelemon/static/js/main.2ad08a07.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc50027.css",
-    "static/js/main.82326ce7.js"
+    "static/js/main.2ad08a07.js"
   ]
 }
