@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/littlelemon/static/css/main.3d9fadd5.css",
-    "main.js": "/littlelemon/static/js/main.1869c8be.js",
-    "static/media/Margherita Pizza.jpg": "/littlelemon/static/media/Margherita Pizza.e7dedb9032a24941feed.jpg",
-    "static/media/Cheeseburger.jpg": "/littlelemon/static/media/Cheeseburger.91578359db258fe3cb2b.jpg",
-    "static/media/Caramel Macchiato.jpg": "/littlelemon/static/media/Caramel Macchiato.3e147e1dde67dcf5bdfa.jpg",
-    "static/media/Iced Green Tea.jpg": "/littlelemon/static/media/Iced Green Tea.e8a980a907c9e837c751.jpg",
-    "static/media/little_lemon__2_-removebg-preview.png": "/littlelemon/static/media/little_lemon__2_-removebg-preview.0d0c8aba61a6a9cb3827.png",
-    "static/media/PIZZA.png": "/littlelemon/static/media/PIZZA.12c49d5b8a39de43431f.png",
-    "static/media/little lemon (3).png": "/littlelemon/static/media/little lemon (3).54477b0d13fb54f1a775.png",
-    "static/media/logo.png": "/littlelemon/static/media/logo.52f2f097d1622825fb92.png",
-    "index.html": "/littlelemon/index.html",
-    "main.3d9fadd5.css.map": "/littlelemon/static/css/main.3d9fadd5.css.map",
-    "main.1869c8be.js.map": "/littlelemon/static/js/main.1869c8be.js.map"
+    "main.css": "/Littlelemon/static/css/main.ddc50027.css",
+    "main.js": "/Littlelemon/static/js/main.041dd61f.js",
+    "static/media/Margherita Pizza.jpg": "/Littlelemon/static/media/Margherita Pizza.e7dedb9032a24941feed.jpg",
+    "static/media/Cheeseburger.jpg": "/Littlelemon/static/media/Cheeseburger.91578359db258fe3cb2b.jpg",
+    "static/media/Caramel Macchiato.jpg": "/Littlelemon/static/media/Caramel Macchiato.3e147e1dde67dcf5bdfa.jpg",
+    "static/media/Iced Green Tea.jpg": "/Littlelemon/static/media/Iced Green Tea.e8a980a907c9e837c751.jpg",
+    "static/media/little_lemon__2_-removebg-preview.png": "/Littlelemon/static/media/little_lemon__2_-removebg-preview.0d0c8aba61a6a9cb3827.png",
+    "static/media/PIZZA.png": "/Littlelemon/static/media/PIZZA.12c49d5b8a39de43431f.png",
+    "static/media/little lemon (3).png": "/Littlelemon/static/media/little lemon (3).54477b0d13fb54f1a775.png",
+    "static/media/logo.png": "/Littlelemon/static/media/logo.52f2f097d1622825fb92.png",
+    "index.html": "/Littlelemon/index.html",
+    "main.ddc50027.css.map": "/Littlelemon/static/css/main.ddc50027.css.map",
+    "main.041dd61f.js.map": "/Littlelemon/static/js/main.041dd61f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d9fadd5.css",
-    "static/js/main.1869c8be.js"
+    "static/css/main.ddc50027.css",
+    "static/js/main.041dd61f.js"
   ]
 }
